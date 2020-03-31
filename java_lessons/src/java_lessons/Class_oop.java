@@ -80,8 +80,8 @@ public class Class_oop { // in vid he calls this class "monster"
 												// overloaded
 		// used as a way to protect against user puting a double
 		// or long whatever
-		int intDecreasehealth = (int) decreaseHealth;
-		health = health = intDecreasehealth;
+	//	int intDecreasehealth = (int) decreaseHealth;
+	//	health = health = intDecreasehealth;
 		if (health < 0) {
 			alive = false;
 		} // end if
