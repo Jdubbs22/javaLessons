@@ -21,7 +21,7 @@ public class TestDictionary {
 		System.out.println("map.keyset() = "+ map.keySet());
 		System.out.println("map.values() = "+ map.values());
 		System.out.println("map.get(\"Uhr\") =  "+ map.get("Uhr"));
-		
+		//test of git
 
 	}//end main
 
